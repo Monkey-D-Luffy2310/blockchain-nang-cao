@@ -4,7 +4,8 @@ Có 4 courses nhỏ nằm trong chuỗi Blockchain Specialization:
   - Blockchain Basics
   - Smart Contracts 
   - Decentralized Applications (Dapps) 
-  - Blockchain Platforms
+  - Blockchain Platforms  
+  
 Sau khóa cơ bản về blockchain, chúng ta sẽ tiếp tục với các kiến thức sâu hơn, được chuyên biệt hoàn toàn hoặc một phần cho từng nhóm phát triển.
 Hiện tại chúng ta có 3 nhóm phát triển: blockchain, frontend và smartcontract.
 Các nhóm phải học và hoàn thành bài tập, final project, tương ứng với các nội dung được giao trên Coursera, sau đó chuẩn bị một báo cáo toàn thể.

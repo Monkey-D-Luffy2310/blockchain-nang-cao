@@ -1,5 +1,5 @@
 # blockchain-nang-cao
-chuyên sâu hơn về blockchain/dapp/smartcontract
+chuyên sâu hơn về blockchain/dapp/smartcontract  
 Có 4 courses nhỏ nằm trong chuỗi Blockchain Specialization: 
   - Blockchain Basics
   - Smart Contracts 
@@ -14,7 +14,8 @@ Yêu cầu mỗi nhóm chọn ra leader để điều phối công việc chung.
   * Thời lượng tối thiểu 10 phút, tối đa 20 phút. Thời gian chất vấn và hỏi đáp tối đa 10 phút sau mỗi báo cáo.
   * Nộp báo cáo file trình chiếu ít nhất một ngày trước hạn đăng ký.
   * Báo cáo trình bày rõ các điểm cốt yếu trong phần nội dung được học (có thể bổ sung thêm các khai thác bên ngoài).  
-  
+
+**Báo cáo tiến độ:** nhóm báo cáo tiến độ cho a Thuật vào các ngày 4/12 và 7/12.  
 **Hạn nộp báo cáo:** cuối ngày 9/12 tất cả các nhóm phải nộp báo cáo, gửi tới hòm thư thuatdv@acgroup.vn  
 **Thời gian báo cáo:** thứ sáu ngày 11/12, yêu cầu tất cả các thành viên tham gia tại phòng đào tạo lớn.  
 **Phân chia nội dung:**  

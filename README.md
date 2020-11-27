@@ -26,5 +26,9 @@ Yêu cầu mỗi nhóm chọn ra leader để điều phối công việc chung.
   - Nhóm frontend (dapp): các bài giảng của course, ít nhất 3 tuần đầu https://www.coursera.org/learn/decentralized-apps-on-blockchain/home/week/3
   - Nhóm blockchain sẽ tham gia cùng nhóm dapp về nội Ethereum APIs https://www.coursera.org/learn/decentralized-apps-on-blockchain/home/week/1
 
+Đăng nhập: https://www.coursera.org/specializations/blockchain  
+acc: thuatdv@acgroup.vn  
+Pass: Acgroup2020    
+
 Thuật và Ngọc chịu trách nhiệm hỗ trợ và hướng dẫn chung cho các nhóm.
 // 
